@@ -47,7 +47,7 @@ The model is trained on **Infrared Thermal Images** of photovoltaic modules. The
 * `Diode Failure`
 
 📚 References
-This project builds upon the following research:
+This project builds upon the following research:M
 
 Liu, B., Chen, L., Sun, K., Wang, X., & Zhao, J. (2024). A Hot Spot Identification Approach for Photovoltaic Module Based on Enhanced U-Net With Squeeze-and-Excitation and VGG19. IEEE Transactions on Instrumentation and Measurement.
 
@@ -55,6 +55,3 @@ Ultralytics YOLOv11 (2024). https://docs.ultralytics.com/models/yolo11/
 
 📝 License
 This project is developed for academic purposes at SASTRA Deemed to be University.
-
-# Install dependencies
-pip install ultralytics torch torchvision opencv-python matplotlib
