@@ -20,9 +20,9 @@ This hybrid approach allows for the precise measurement of fault size, shape, an
 ## 👥 Team Members
 | Name | Register No. | Role |
 |:---:|:---:|:---:|
-| **Ashvathram B** | 227003018 | Developer |
-| **Swaminathan S** | 227003148 | Developer |
-| **Vishokbadri K** | 227003163 | Developer |
+| **Ashvathram B** |  Developer |
+| **Swaminathan S** |  Developer |
+| **Vishokbadri K** |  Developer |
 
 **Project Supervisor:** Dr. Sangeetha J
 
