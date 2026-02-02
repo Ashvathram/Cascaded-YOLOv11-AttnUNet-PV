@@ -1,5 +1,3 @@
-# Cascaded-YOLOv11-AttnUNet-PV
-A cascaded deep learning framework combining YOLOv11 for real-time localization and Attention-Driven U-Net for pixel-level segmentation of thermal hotspots in photovoltaic panels.
 # A Cascaded YOLOv11 and Attention-Driven U-Net Framework for Autonomous Photovoltaic Hotspot Diagnosis
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
