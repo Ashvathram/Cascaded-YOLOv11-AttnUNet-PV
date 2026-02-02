@@ -18,8 +18,8 @@ This project implements a **Cascaded Deep Learning Framework** that combines the
 This hybrid approach allows for the precise measurement of fault size, shape, and severity, outperforming standalone detection models in terms of pixel accuracy and Mean Intersection-Over-Union (MIoU).
 
 ## 👥 Team Members
-| Name | Role |
-|:---:|:---:|:---:|
+| Name   | Role |
+|:---:|:---:|
 | **Ashvathram B** |  Developer |
 | **Swaminathan S** |  Developer |
 | **Vishokbadri K** |  Developer |
